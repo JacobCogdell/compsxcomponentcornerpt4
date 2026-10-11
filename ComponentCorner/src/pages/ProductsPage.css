@@ -1,0 +1,15 @@
+/* ProductsPage.css - Created with assistance from Microsoft Copilot */
+
+.products-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+  justify-content: center;
+}
+
+.products-container h2 {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 10px;
+}

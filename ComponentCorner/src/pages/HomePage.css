@@ -1,0 +1,24 @@
+/* HomePage.css - Created with assistance from Microsoft Copilot */
+
+.home-container {
+  padding: 20px;
+}
+
+.home-intro {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.home-intro h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.home-intro p {
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: center;
+  color: #444;
+}

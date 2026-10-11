@@ -1,0 +1,32 @@
+/* ProductCard.css - Created with assistance from Microsoft Copilot */
+.product-card {
+  width: 300px;
+  border: 1px solid #ddd;
+  padding: 16px;
+  border-radius: 10px;
+  background: #fff;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.product-image {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.product-name {
+  margin-top: 12px;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.product-price {
+  color: #444;
+  font-weight: bold;
+  margin: 8px 0;
+}
+
+.product-description {
+  font-size: 0.9rem;
+  color: #666;
+}
